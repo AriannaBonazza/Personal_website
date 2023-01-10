@@ -41,9 +41,10 @@ about:
   content: 
     <p class="lead">
     <strong>I’m an energetic and passionate master’s student of applied mathematics at Università degli Studi di Padova, Italy. My specialities are probability and mathematical finance. My interests also range towards optimisation and data science, with which I became familiar during my internship at BallSquad. 
+    As a part of my joint degree program,</strong> I’m spending my second year of master's at Université Paris Sciences & Lettres.
     </p>
     <p class="lead">
-    <strong>As a part of my joint degree program,</strong> I’m spending my second year of master's at Université Paris Sciences & Lettres. I’m a language and travel lover. In addition to my technical-scientific skills, I possess a high proficiency level in English, which I was able to hone and test during my experiences abroad.
+    <strong>I’m a language and travel lover. In addition to my technical-scientific skills, I possess a high proficiency level in English, which I was able to hone and test during my experiences abroad.
     </p>
   button:
     icon: "icon-smile-fill"
