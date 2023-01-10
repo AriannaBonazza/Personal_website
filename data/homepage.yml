@@ -1,12 +1,12 @@
 head:
-  title: "Bonazza Arianna"
+  title: "Arianna Bonazza"
 
 # showcase
 showcase:
   enable: true
   title: "Hello, I’m Bonazza Arianna."
-  subtitle: "Applied mathematics master’s student"
-  description: "I’m an energetic and passionate master’s student of mathematics at Università degli Studi di Padova, Italy. My specialities are probability and mathematical finance. My interests also range towards optimisation and data science, with which I became familiar during my internship at BallSquad."
+  subtitle: "Mathematics master’s student"
+  description: "I’m an energetic and passionate master’s student of applied mathematics at Università degli Studi di Padova, Italy."
   image:
     x: "img/showcase/tiktik.gif"
     _2x: "img/showcase/tiktik.gif"
@@ -40,7 +40,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I’m an energetic and passionate master’s student of mathematics at Università degli Studi di Padova, Italy. My specialities are probability and mathematical finance. My interests also range towards optimisation and data science, with which I became familiar during my internship at BallSquad. 
+    <strong>I’m an energetic and passionate master’s student of applied mathematics at Università degli Studi di Padova, Italy. My specialities are probability and mathematical finance. My interests also range towards optimisation and data science, with which I became familiar during my internship at BallSquad. 
     </p>
     <p class="lead">
     <strong>As a part of my joint degree program.</strong> I’m spending my second year of master's at Université Paris Sciences & Lettres. I’m a language and travel lover. In addition to my technical-scientific skills, I possess a high proficiency level in English, which I was able to hone and test during my experiences abroad.
@@ -68,13 +68,13 @@ experience:
     URL: "cv/CV-Seddik-final-version123.pdf"
 
   items: 
-    - title: "Ticketing manager and marketing coordinator  - Venice, Italy"
+    - title: "Ticketing manager and marketing coordinator - Venice, Italy"
       company: '<a href="https://tedxmestre.com/">TEDxMestre</a>' 
-      duration: "January 2021 - present"
+      duration: "February 2021 - present"
       
     - title: "Intern Data Scientist - Warsaw, Poland"
       company: '<a href="https://www.ballsquad.pl/#/">BallSquad</a>'
-      duration: "Mai  2022 - September 2022"
+      duration: "May  2022 - September 2022"
 
     
 
@@ -85,13 +85,13 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Università degli studi di Padova,Italy"
+    - university: "Università degli studi di Padova, Italy"
       year: "2022"
-      degree: "Bachelor's Degree in Mathematics ,Supervisor: professor Marco Di Summa"
+      degree: "Bachelor's Degree in Mathematics, Supervisor: professor Marco Di Summa"
 
-    - university: " Boston University, USA"
+    - university: "Boston University, USA"
       year: "2021"
-      degree: "Student exchange - Supervisors: professor Debra K. Borkovitz, professor Ethan D. Bolker"
+      degree: "Student exchange, Supervisors: professor Debra K. Borkovitz, professor Ethan D. Bolker"
       
     
 # Client & Work
@@ -135,7 +135,7 @@ client_and_work:
     
 
     - title: "Contamination Lab Veneto"
-      description: "multidisciplinary laboratory for the development of innovation in business. Project “Hub2City” : of a smart city for H2C S.p.a., winner of the Padova Soft City prize by the Chamber of Commerce." 
+      description: "Multidisciplinary laboratory for the development of innovation in business. Project “Hub2City” of a smart city for H2C S.p.a., winner of the Padova Soft City prize by the Chamber of Commerce." 
 
       button:
         icon: "icon-arrow-right"
@@ -147,7 +147,7 @@ client_and_work:
       is_even: True  
       
       
-    - title: "H-ack New Banking Frontiers" 
+    - title: "H-ACK New Banking Frontiers" 
       description: "24-hour marathon of creative energy in collaboration with Intesa Sanpaolo, to develop innovative projects by mixing the unique know-how of traditional Made in Italy excellence with the digital world. Winner project “BeIntesa” that, thanks to gamification, aims to create a deep connection with the bank’s customers, guiding their purchasing decisions, interactions and forms of involvement over time."
 
      
@@ -172,11 +172,11 @@ client_and_work:
         _2x: "img/works/Project2.png"
       is_even: true  
       
-    - title: "Web Scrapping B2B Project BallSquad"
-      description: "During my internship in Poland, I had the opportunity to work on a web scraping project that involved collecting data on sport installations across the country. Using a variety of tools and techniques, I was able to extract data from various websites and compile it into a comprehensive database."
+    - title: "Web scraping B2B Project for BallSquad"
+      description: "During my internship in Warsaw, I had the opportunity to work on a web scraping project that involved collecting data on sport venues across the country. Using a variety of tools and techniques, I was able to extract data from various websites and compile them into a comprehensive database."
       button:
         icon: "icon-arrow-right"
-        btnText: "Go to the project's Github repository"
+        btnText: "Project's GitHub repository"
         URL: "https://github.com/medseddik1999/Web_Scraping_Poland_Sport_instalation" 
       image:
         x: "img/works/web_scp.png"
@@ -206,7 +206,7 @@ contact:
     email: '<a href="mailto:ariannabonazza28@gmail.com">ariannabonazza28@gmail.com</a>'
   address:
     title: "Address"
-    address: "Padova , Italy"
+    address: "Padova, Italy"
   
 
 # newsletter
