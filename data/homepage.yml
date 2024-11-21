@@ -58,7 +58,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "As the Ticketing Manager and Marketing Coordinator for TEDxMestre, I was responsible for managing all aspects of ticketing for the event, including setting ticket prices, coordinating with the venue on ticket availability and allocation, and promoting the event through various marketing channels. I also worked closely with the event's organizers to ensure that all ticketing and marketing efforts were aligned with the overall vision and goals of the event. In my role as a data scientist, I have gained valuable experience working with large, complex data sets, using a variety of tools and techniques to extract insights and drive business decision making. I have also developed strong communication skills, as I frequently work with cross-functional teams and stakeholders to explain my findings and recommendations in a clear and concise manner. Overall, my diverse experience in ticketing, marketing, and data science has allowed me to develop a unique skillset that has been invaluable in my professional career."
+  description: "As the Ticketing Manager and Marketing Coordinator for TEDxVenezia, I was responsible for managing all aspects of ticketing for the event, including setting ticket prices, coordinating with the venue on ticket availability and allocation, and promoting the event through various marketing channels. I also worked closely with the event's organizers to ensure that all ticketing and marketing efforts were aligned with the overall vision and goals of the event. In my role as a data scientist, I have gained valuable experience working with large, complex data sets, using a variety of tools and techniques to extract insights and drive business decision making. I have also developed strong communication skills, as I frequently work with cross-functional teams and stakeholders to explain my findings and recommendations in a clear and concise manner. Overall, my diverse experience in ticketing, marketing, and data science has allowed me to develop a unique skillset that has been invaluable in my professional career."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -70,7 +70,7 @@ experience:
 
   items: 
     - title: "Ticketing manager and marketing coordinator - Venice, Italy"
-      company: '<a href="https://tedxmestre.com/">TEDxMestre</a>' 
+      company: '<a href="https://tedxvenezia.com">TEDxVenezia</a>' 
       duration: "February 2021 - present"
       
     - title: "Intern Data Scientist - Warsaw, Poland"
